@@ -1,6 +1,6 @@
 # AstroPi-Persept-2023
 
-main.py: the program run on the Raspberry Pi on the International Space Station
+main.py: the program that ran on the Raspberry Pi on the International Space Station
 
 Experiment_Results.csv: the results received from main.py
 
