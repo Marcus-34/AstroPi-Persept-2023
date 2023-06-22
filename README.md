@@ -1,9 +1,9 @@
 # AstroPi-Persept-2023
 
-main.py\n
+main.py: the program run on the Raspberry Pi on the International Space Station
 
-Scatter_Graph_Data_Manipulation.py
+Experiment_Results.csv: the results received from main.py
 
-Machine_Learning_Success_Rate.py
+Scatter_Graph_Data_Manipulation.py: the program which manipulated our results so that we could plot graphs
 
-Experiment_Results.csv
+Machine_Learning_Success_Rate.py: the program which calculated the percentage success rate of our machine learning model
